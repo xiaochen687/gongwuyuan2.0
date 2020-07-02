@@ -1,3 +1,8 @@
-- [备战面试](./docs/a-1备战面试.md)
-- java
-  - [java基础](./docs/java基础.md)
+
+
+* [判断推理](./docs/panduantuili_tuxing1_1.md)
+* [资料分析]()
+* [言语理解与表达]()
+* [数量关系]()
+* [常识判断]()
+
