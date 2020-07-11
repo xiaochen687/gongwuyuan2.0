@@ -8,221 +8,221 @@
 
 ### 1、命题形式
 
-> <img src="../img/判断推理/图形推理/1-图形推理的命题形式1.png" alt="1-图形推理的命题形式1" style="zoom:70%;" />   
+> <img src="./img/判断推理/图形推理/1-图形推理的命题形式1.png" alt="1-图形推理的命题形式1" style="zoom:70%;" />   
 >
 > ---
 >
-> <img src="../img/判断推理/图形推理/2-图形推理的命题形式2.png" alt="2-图形推理的命题形式2" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/2-图形推理的命题形式2.png" alt="2-图形推理的命题形式2" style="zoom:70%;" />
 
 ### 2、图形规律
 
-> <img src="../img/判断推理/图形推理/3-图形推理规律.png" alt="3-图形推理的命题形式" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/3-图形推理规律.png" alt="3-图形推理的命题形式" style="zoom:70%;" />
 
 ### 3、位置规律（元素组成相同）
 
-> <img src="../img/判断推理/图形推理/4-位置规律.png" alt="4-位置规律" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/4-位置规律.png" alt="4-位置规律" style="zoom:70%;" />
 
 #### 3.1平移
 
-> <img src="../img/判断推理/图形推理/5-位置规律-平移.png" alt="5-位置规律-平移" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/5-位置规律-平移.png" alt="5-位置规律-平移" style="zoom:70%;" />
 >
 > ---
 >
 > > **宫格型黑块平移**
 >
-> <img src="../img/判断推理/图形推理/6-宫格黑快平移-1.png" alt="6-宫格黑快平移-1" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/6-宫格黑快平移-1.png" alt="6-宫格黑快平移-1" style="zoom:70%;" />
 >
 > ---
 >
-> <img src="../img/判断推理/图形推理/6-宫格黑快平移-2.png" alt="6-宫格黑快平移-2" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/6-宫格黑快平移-2.png" alt="6-宫格黑快平移-2" style="zoom:70%;" />
 >
 > ---
 >
-> <img src="../img/判断推理/图形推理/6-宫格黑快平移-3.png" alt="6-宫格黑快平移-3" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/6-宫格黑快平移-3.png" alt="6-宫格黑快平移-3" style="zoom:70%;" />
 >
 > ---
 >
 > > **多宫格方向判定**
 >
-> <img src="../img/判断推理/图形推理/7-多宫格方向判定-1.png" alt="7-多宫格方向判定-1" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/7-多宫格方向判定-1.png" alt="7-多宫格方向判定-1" style="zoom:70%;" />
 >
 > ---
 >
-> <img src="../img/判断推理/图形推理/7-多宫格方向判定-2.png" alt="7-多宫格方向判定-2" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/7-多宫格方向判定-2.png" alt="7-多宫格方向判定-2" style="zoom:70%;" />
 >
 > ---
 >
 > > **技巧**
 >
-> <img src="../img/判断推理/图形推理/8-技巧.png" alt="8-技巧" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/8-技巧.png" alt="8-技巧" style="zoom:70%;" />
 
 #### 3.2旋转
 
-> <img src="../img/判断推理/图形推理/9-旋转.png" alt="9-旋转" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/9-旋转.png" alt="9-旋转" style="zoom:70%;" />
 >
 > ---
 >
-> <img src="../img/判断推理/图形推理/10-旋转例题.png" alt="10-旋转例题" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/10-旋转例题.png" alt="10-旋转例题" style="zoom:70%;" />
 
 #### 3.3翻转
 
-> <img src="../img/判断推理/图形推理/11-翻转.png" alt="11-翻转" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/11-翻转.png" alt="11-翻转" style="zoom:70%;" />
 >
 > > **对称和翻转区别**
 >
-> <img src="../img/判断推理/图形推理/12-对称和翻转区别.png" alt="12-对称和翻转区别" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/12-对称和翻转区别.png" alt="12-对称和翻转区别" style="zoom:70%;" />
 >
 > > **区分旋转和翻转**
 >
-> <img src="../img/判断推理/图形推理/13-区分旋转和翻转.png" alt="13-区分旋转和翻转" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/13-区分旋转和翻转.png" alt="13-区分旋转和翻转" style="zoom:70%;" />
 >
 > ---
 >
-> <img src="../img/判断推理/图形推理/14-区分旋转和翻转例题.png" alt="14-区分旋转和翻转例题" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/14-区分旋转和翻转例题.png" alt="14-区分旋转和翻转例题" style="zoom:70%;" />
 
 #### 3.4小结
 
-> <img src="../img/判断推理/图形推理/15-小结.png" alt="15-小结" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/15-小结.png" alt="15-小结" style="zoom:70%;" />
 
 ### 4、样式规律（元素组成相似）
 
 > 
 
-> <img src="../img/判断推理/图形推理/16-样式规律.png" alt="16-样式规律" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/16-样式规律.png" alt="16-样式规律" style="zoom:70%;" />
 
 #### 4.1遍历
 
-> <img src="../img/判断推理/图形推理/17-遍历.png" alt="17-遍历" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/17-遍历.png" alt="17-遍历" style="zoom:70%;" />
 >
 > ---
 >
-> <img src="../img/判断推理/图形推理/18-遍历例题.png" alt="18-遍历例题" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/18-遍历例题.png" alt="18-遍历例题" style="zoom:70%;" />
 
 #### 4.2加减同异
 
-> <img src="../img/判断推理/图形推理/19-加减同异-1.png" alt="19-加减同异-1" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/19-加减同异-1.png" alt="19-加减同异-1" style="zoom:70%;" />
 >
 > ---
 >
-> <img src="../img/判断推理/图形推理/19-加减同异-2.png" alt="19-加减同异-2" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/19-加减同异-2.png" alt="19-加减同异-2" style="zoom:70%;" />
 >
 > ---
 >
-> <img src="../img/判断推理/图形推理/20-例题.png" alt="20-例题" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/20-例题.png" alt="20-例题" style="zoom:70%;" />
 >
 > ---
 >
-> <img src="../img/判断推理/图形推理/21-加减同异小结.png" alt="21-加减同异小结" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/21-加减同异小结.png" alt="21-加减同异小结" style="zoom:70%;" />
 
 #### 4.3黑白运算
 
-> <img src="../img/判断推理/图形推理/22-黑白运算.png" alt="22-黑白运算" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/22-黑白运算.png" alt="22-黑白运算" style="zoom:70%;" />
 
 #### 4.4小结
 
-> <img src="../img/判断推理/图形推理/23-样式规律小结.png" alt="23-样式规律小结" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/23-样式规律小结.png" alt="23-样式规律小结" style="zoom:70%;" />
 
 ### 5、属性规律（元素组成不相同、不相似）
 
 > 
 
-> <img src="../img/判断推理/图形推理/24-属性规律.png" alt="24-属性规律" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/24-属性规律.png" alt="24-属性规律" style="zoom:70%;" />
 
 #### 5.1对称性
 
-> <img src="../img/判断推理/图形推理/25-对称性-1.png" alt="25-对称性-1" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/25-对称性-1.png" alt="25-对称性-1" style="zoom:70%;" />
 >
 > ---
 >
-> <img src="../img/判断推理/图形推理/25-对称性-2.png" alt="25-对称性-2" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/25-对称性-2.png" alt="25-对称性-2" style="zoom:70%;" />
 >
 > > **对称性的方向和数量**
 >
-> <img src="../img/判断推理/图形推理/26-对称性方向和数量.png" alt="26-对称性方向和数量" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/26-对称性方向和数量.png" alt="26-对称性方向和数量" style="zoom:70%;" />
 >
 > > **对称轴的位置关系**
 >
-> <img src="../img/判断推理/图形推理/27-对称轴的位置关系.png" alt="27-对称轴的位置关系" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/27-对称轴的位置关系.png" alt="27-对称轴的位置关系" style="zoom:70%;" />
 >
 > ---
 >
-> <img src="../img/判断推理/图形推理/28-方向、位置关系例题.png" alt="28-方向、位置关系例题" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/28-方向、位置关系例题.png" alt="28-方向、位置关系例题" style="zoom:70%;" />
 >
 > > **一个图里面两个小图形都有对称轴**
 >
-> <img src="../img/判断推理/图形推理/29-一个图里面两个小图形都有对称性.png" alt="29-一个图里面两个小图形都有对称性" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/29-一个图里面两个小图形都有对称性.png" alt="29-一个图里面两个小图形都有对称性" style="zoom:70%;" />
 >
 > ---
 >
-> <img src="../img/判断推理/图形推理/30-例题.png" alt="30-例题" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/30-例题.png" alt="30-例题" style="zoom:70%;" />
 >
 > ---
 >
-> <img src="../img/判断推理/图形推理/31-对称性小结.png" alt="31-对称性小结" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/31-对称性小结.png" alt="31-对称性小结" style="zoom:70%;" />
 >
 > > **常见轴对称和中心对称图形**
 >
-> <img src="../img/判断推理/图形推理/32-常见轴称图形.png" alt="32-常见轴称图形" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/32-常见轴称图形.png" alt="32-常见轴称图形" style="zoom:70%;" />
 >
 > ---
 >
-> <img src="../img/判断推理/图形推理/33-常见中心对称图形.png" alt="33-常见中心对称图形" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/33-常见中心对称图形.png" alt="33-常见中心对称图形" style="zoom:70%;" />
 
 #### 5.2曲直性
 
-> <img src="../img/判断推理/图形推理/34-曲直性.png" alt="34-曲直性" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/34-曲直性.png" alt="34-曲直性" style="zoom:70%;" />
 >
 > ---
 >
-> <img src="../img/判断推理/图形推理/35-曲直线例题.png" alt="35-曲直线例题" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/35-曲直线例题.png" alt="35-曲直线例题" style="zoom:70%;" />
 
 #### 5.3开闭性
 
-> <img src="../img/判断推理/图形推理/36-开闭性.png" alt="36-开闭性" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/36-开闭性.png" alt="36-开闭性" style="zoom:70%;" />
 >
 > ---
 >
-> <img src="../img/判断推理/图形推理/37-例子.png" alt="37-例子" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/37-例子.png" alt="37-例子" style="zoom:70%;" />
 
 #### 5.4小结
 
-> <img src="../img/判断推理/图形推理/38-小结.png" alt="38-小结" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/38-小结.png" alt="38-小结" style="zoom:70%;" />
 
 ### 6、特殊规律
 
-> <img src="../img/判断推理/图形推理/39-特殊规律.png" alt="39-特殊规律" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/39-特殊规律.png" alt="39-特殊规律" style="zoom:70%;" />
 
 #### 6.1图形间关系
 
-> <img src="../img/判断推理/图形推理/40-图形见关系.png" alt="40-图形见关系" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/40-图形见关系.png" alt="40-图形见关系" style="zoom:70%;" />
 >
 > ---
 >
-> <img src="../img/判断推理/图形推理/41-例题.png" alt="41-例题" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/41-例题.png" alt="41-例题" style="zoom:70%;" />
 >
 > ---
 >
-> <img src="../img/判断推理/图形推理/41-例题2.png" alt="41-例题2" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/41-例题2.png" alt="41-例题2" style="zoom:70%;" />
 
 #### 6.2功能元素
 
-> <img src="../img/判断推理/图形推理/42-功能元素-1.png" alt="42-功能元素-1" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/42-功能元素-1.png" alt="42-功能元素-1" style="zoom:70%;" />
 >
 > ---
 >
-> <img src="../img/判断推理/图形推理/42-功能元素-2.png" alt="42-功能元素-2" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/42-功能元素-2.png" alt="42-功能元素-2" style="zoom:70%;" />
 >
 > ---
 >
-> <img src="../img/判断推理/图形推理/43-例题.png" alt="43-例题" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/43-例题.png" alt="43-例题" style="zoom:70%;" />
 >
 > ---
 >
-> <img src="../img/判断推理/图形推理/43-例题-2.png" alt="43-例题-2" style="zoom:70%;" />
+> <img src="./img/判断推理/图形推理/43-例题-2.png" alt="43-例题-2" style="zoom:70%;" />
 
 #### 6.3小结
 
-<img src="../img/判断推理/图形推理/.png" alt="" style="zoom:70%;" />
+<img src="./img/判断推理/图形推理/.png" alt="" style="zoom:70%;" />
 
 ## 二、定义判断
 
